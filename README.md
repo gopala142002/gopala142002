@@ -1,4 +1,4 @@
-![logo](https://github.com/gopala142002/gopala142002/blob/main/Brown Wood Minimalist Profile LinkedIn Banner.png)
+![logo](https://github.com/gopala142002/gopala142002/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Gopala</h1>
 <h3 align="center">A final year CSE student at NITP.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*LEH5tUEQReWe8Iu-UEV3Pg.gif">
